@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta de Hom Primera Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalHombrePrimeraEquipacionUno.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Camiseta Muj Primera Equipación",
+        "categoria": "Remeras",
+        "genero": "Mujer",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalMujerPrimeraEquipacionDos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Camiseta de Hom Segunda Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalHombreSegundaEquipacionTres.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Camiseta de Hom Tercera Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalHombreTerceraEquipacionCuatro.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Camiseta Manga Larga Hom Primera Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalMangaLargaHombrePrimeraEquipacionCinco.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Camiseta Manga Larga Hom Segunda Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalMangaLargaHombreSegundaEquipacionSeis.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Camiseta Portero Hom Primera Equipación",
+        "categoria": "Remeras",
+        "genero": "Hombre",
+        "precio": 16000.00,
+        "url": "../assets/remeras/camisetaOriginalPorteroHombrePrimeraEquipacionSiete.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Camiseta Portero Niño Primera Equipación",
+        "categoria": "Remeras",
+        "genero": "Niño",
+        "precio": 8000.00,
+        "url": "../assets/remeras/camisetaOriginalPorteroNinoPrimeraEquipacionOcho.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Short Corto Hom Segunda Equipación",
+        "categoria": "Pantalones",
+        "genero": "Hombre",
+        "precio": 6000.00,
+        "url": "../assets/pantalon/pantalonCortoHombrePrimeraEquipacionUno.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Short Corto Hom Primera Equipación",
+        "categoria": "Pantalones",
+        "genero": "Hombre",
+        "precio": 6000.00,
+        "url": "../assets/pantalon/pantalonCortoHombreSegundaEquipacionDos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Short Corto Hom Tercera Equipación",
+        "categoria": "Pantalones",
+        "genero": "Hombre",
+        "precio": 6000.00,
+        "url": "../assets/pantalon/pantalonCortoHombreTerceraEquipacionTres.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Short Corto Niño Primera Equipación",
+        "categoria": "Pantalones",
+        "genero": "Niño",
+        "precio": 6000.00,
+        "url": "../assets/pantalon/pantalonCortoNinoPrimeraEquipacionCuatro.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Botin de Hom para césped natural",
+        "categoria": "Calzados",
+        "genero": "Hombre",
+        "precio": 14000.00,
+        "url": "../assets/calzados/botinCespedNaturalUno.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Botin de Hom para césped artificial",
+        "categoria": "Calzados",
+        "genero": "Hombre",
+        "precio": 13000.00,
+        "url": "../assets/calzados/botinCespedArtificialDos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Botin de Hom para césped terreno blando",
+        "categoria": "Calzados",
+        "genero": "Hombre",
+        "precio": 12000.00,
+        "url": "../assets/calzados/botinCespedTerrenoBlandoTres.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Medias Hombre Primera Equipación",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 2800.00,
+        "url": "../assets/accesorios/mediasHombrePrimeraEquipacionUno.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 17,
+        "nombre": "Medias Hombre Segunda Equipación",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 2800.00,
+        "url": "../assets/accesorios/mediasHombreSegundaEquipacionDos.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 18,
+        "nombre": "Medias Hombre Tercera Equipación",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 2800.00,
+        "url": "../assets/accesorios/mediasHombreTerceraEquipacionTres.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 19,
+        "nombre": "Guantes Hom en color azul",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 4500.00,
+        "url": "../assets/accesorios/guantesAzulCuatro.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 20,
+        "nombre": "Guantes Hom en color negro",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 4500.00,
+        "url": "../assets/accesorios/gunatesNegroCinco.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 21,
+        "nombre": "Gorra en color blanco",
+        "categoria": "Accesorios",
+        "genero": "Hombre",
+        "precio": 3500.00,
+        "url": "../assets/accesorios/gorraSeis.jpg",
+        "cantidad": 1
+    }
+]

@@ -1,0 +1,84 @@
+/*body background*/
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+/*imagen del logo*/
+.imagenLogo {
+    width: 70px;
+    height: 45px; 
+}
+
+/*modal*/
+.modal{
+  color: #000;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/*titulo principal*/
+#tituloInicial{
+  font-family: "Roboto", "sans-serif";
+  text-align: center;
+  color: white;
+  margin-bottom: 0rem;
+}
+
+/*contenedor de filtro*/
+#contenedorFiltro{
+  font-family: "Roboto", "sans-serif";
+  color: white;
+}
+.padreFiltro{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+/*container mensaje*/
+.containerMensaje{
+  display: none;
+  text-align: center;
+  
+}
+
+/*titulo producto*/
+#tituloProducto{
+  font-family: "Roboto", "sans-serif";
+  text-align: center;
+  color: white;
+}
+
+/*contenedor indumenatria*/
+#contenedorIndumentaria{
+  color: #000;
+  text-align: center;
+}
+
+/*footer*/
+#footer {
+  font-family: "Roboto", "sans-serif";
+  font-size: 1rem;
+  color: #b5b5b5;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #000; }
+  #footer ul {
+    padding: 0rem;
+    padding-top: 2rem; }
+    #footer ul .redesSociales {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      text-align: center; }
+      #footer ul .redesSociales li {
+        margin: 1rem; }
+      #footer ul .redesSociales a {
+        text-decoration: none;
+        color: #b5b5b5; }
+        #footer ul .redesSociales a:hover {
+          color: #0000ff; }
+      #footer ul .redesSociales .titulo {
+        text-align: center; }
